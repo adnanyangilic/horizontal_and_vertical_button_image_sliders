@@ -1,0 +1,101 @@
+.imageslidercontainer {
+    height: 50%;
+    width: 60%;
+    margin: auto;
+}
+
+.imageslidertable,
+.imagerow {
+    height: 90%;
+    width: 90%;
+    margin: auto;
+    border: 2px solid #5555aa;
+}
+
+#imageplaceholder {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#imageplaceholder,
+.numberbutton {
+    border: 1px solid gray
+}
+
+.numberbutton {
+    color: bisque;
+    font-size: 20px;
+    text-align: center;
+}
+
+.numberbutton:hover {
+    background-color: #991111;
+    color: bisque;
+}
+
+.numberrow {
+    background-color: #1111aa;
+}
+
+.imageslidercontainer {
+    height: 60%;
+    width: 80%;
+    margin: auto;
+}
+
+.imageslidertable,
+.imagerow {
+    height: 90%;
+    width: 90%;
+    margin: 0;
+    border: 2px solid #5555aa;
+}
+
+#imageplace {
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    width: 95%;
+}
+
+.vnumberbutton {
+    color: bisque;
+    font-size: 20px;
+    text-align: center;
+    background-color: #1111aa;
+    margin: 0px;
+    /* border: 1px solid white;*/
+}
+
+.vnumberbutton:hover {
+    background-color: #991111;
+    color: bisque;
+}
+
+.numberrow {
+    background-color: #1111aa;
+}
+
+#numberrow {
+    background-color: #1111aa;
+    border: 1px solid #5555aa;
+    margin: 0px;
+}
+
+#numtd {
+    background-color: #1111aa;
+    width: 5%;
+}
+
+.numtd {
+    background-color: #1111aa;
+}
+
+#singlecol {
+    border: 1px solid #5555aa;
+    background-color: #1111aa;
+}
+
+.numrow {
+    border: 1px solid #aaa;
+    margin: 0px;
+}
